@@ -1,0 +1,118 @@
+.body{
+	background-color:white;
+}
+h3{
+	font-size: 40px;
+	font-weight: normal;
+    text-align: center;
+    color:blue;
+}
+
+header{
+	height: 100px;
+}
+
+footer{
+	height: 80px;
+	padding-top: 30px;
+	text-align: center;
+	background-color: white;
+	border-top: 2px solid #AAA;
+}
+.page{  
+	width: 780px;
+	margin: all;
+	font-family: 'source sans pro',calibri,tahoma,sans-serif;
+	font-size: 16px;
+	border: 5px solid #3388CC;
+	border-radius: 10px;
+	box-shadow: 2px 3px 4px black;
+	padding: 20px;
+	background-color: white;
+}
+
+.infophoto{
+	height: 250px;
+}
+.info{
+	float: none;
+}
+.photo{
+    float: right;
+}
+.infomonjeu{
+    height: 108px;
+}
+.info{
+    float: none;
+}
+
+.monjeu{
+	float: left;
+}
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.sec-droite{
+	margin-left: 150px;
+	margin-top: 40px;
+}
+
+.durée{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 16px;
+}
+.titre{
+	font-weight: bold;
+	font-size: 20px;
+}
+#sec-gauche p{
+	margin-bottom: 18px;
+}
+#parc-gauche p{
+	margin-top: 35px;
+}
+li{
+	font-size: 22px;
+	color: #338888
+	border-bottom: 3px solid #3388DD;
+
+
+}
+body{
+    background-color: white;
+}
+
+h2{
+	font-size: 22px;
+	color: blueviolet;
+
+}
+	margin-top: 35px;
+}
+li{
+	font-size: 22px;
+	color: #338888
+	border-bottom: 3px solid #3388DD;
+
+
+}
+
+h1{
+	font-size: 28px;
+	color: #338888;
+	border-bottom: 3px solid #3388DD;
+}
+div{
+	font-size: 14px;
+    color: #338888
+    float: left;
+}
+
